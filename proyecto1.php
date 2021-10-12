@@ -6,6 +6,6 @@ $suma=$a+$b;
 
 echo 'la suma de '. $a.' + '. $b.' es '. $suma;
 
-
+echo 'Reyner muñoz'
 
 ?>
